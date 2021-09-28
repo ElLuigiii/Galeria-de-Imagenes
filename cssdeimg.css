@@ -1,0 +1,38 @@
+body {background-image: radial-gradient(rgb(248, 245, 245), rgb(46, 188, 231), rgb(233, 248, 19))}
+    
+h1 {text-align: center;
+    font-size: 58px;
+    font-family: 'Pacifico', cursive;
+    text-decoration:underline black;10PX
+    text-shadow: 2px, 2px, 2px, ;  nb 
+    letter-spacing: 8px;
+    opacity: 0.3;
+}
+.contenedor{justify-content: center;  
+            text-align: center;}
+            
+.tarjeta
+{justify-content: center;
+         text-align: center;
+         width: 150;
+         height: 220px;
+         padding: 5px;
+         box-shadow: 1px 1px 5px rgb(93, 145, 224);
+         border-radius: 5px;
+        background-color: #ffffff;
+        opacity: 0.5;}
+.tarjeta:hover {border: solid blue 2.5px;}
+img {height: 75%;
+    width: 95% ;
+    border-radius: 3px;}
+
+.seccion {display: flex;
+         justify-content: center;
+         gap: 15px;}
+
+.texto {background-color: rgb(255, 255, 255);
+        margin-top: -8px;}
+ .footer {text-align: center;
+            ;}
+ 
+.cierre {box-shadow: 2px 2px 5px blue;}
